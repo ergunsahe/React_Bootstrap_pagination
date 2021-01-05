@@ -28,7 +28,7 @@ const Employee = ({ employee }) => {
                 <OverlayTrigger
                     overlay = {
                         <Tooltip id = {`tooltip-top`}>
-                            EditX
+                            Edit
                         </Tooltip>
                     }
                 >
@@ -38,7 +38,7 @@ const Employee = ({ employee }) => {
                 <OverlayTrigger
                     overlay = {
                         <Tooltip id = {`tooltip-top`}>
-                            DeleteX
+                            Delete
                         </Tooltip>
                     }
                 >
